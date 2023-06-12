@@ -1,0 +1,5 @@
+name: RainyDay
+version: '${project.version}'
+main: me.arttostog.rainyday.RainyDay
+api-version: 1.13
+authors: [arttostog]
