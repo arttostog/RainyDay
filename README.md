@@ -4,9 +4,15 @@
 
 **About**
 
-A small plugin that changes the weather in the worlds to rainy.
+</div>
+
+A small plugin that changes the weather in the worlds to rainy. Infinity rain ☔!
+
+<div align="center">
 
 **Download**
+
+</div>
 
 - Go to [Releases](https://github.com/arttostog/RainyDay/releases) and download the latest version of the plugin from there.
 - Move the plugin to the "plugins" folder and restart server.
