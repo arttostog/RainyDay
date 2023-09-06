@@ -2,7 +2,7 @@
 
 # RainyDay - Simple Minecraft Plugin.
 
-**About**
+### About
 
 </div>
 
@@ -10,7 +10,7 @@ A small plugin that changes the weather in the worlds to rainy. Infinity rain â˜
 
 <div align="center">
 
-**Download**
+### Download
 
 </div>
 
